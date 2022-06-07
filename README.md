@@ -1,1 +1,21 @@
-# modulo_02
+# Modulo de Ruby
+
+- Variáveis e Versionamento do Ruby.
+- Saida e Entrada padrão, /n, chomp e coerção.
+- Estruturas Condicionais.
+- Operadores Ralacionais e Aritméticos.
+- Estruturas de Repetição.
+- Arrays / Vetlores.
+- Hashes.
+- Símbolos / Symbols.
+- Parênteses e Constantes.
+- Tipos Primitivos vs Complexos.
+- Classes vs Objetos.
+- Casses e Métodos.
+- Parâmetros e Initialize.
+- Self, Variáveis de Instancia e Accessors.
+- Classes e Herança.
+- Métodos de Instancia e de Classe.
+- Módulos e Mixins.
+- Gems e Versinamento de gems.
+- Bundler.
